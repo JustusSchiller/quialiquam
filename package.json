@@ -1,0 +1,20 @@
+{
+  "name": "quialiquam",
+  "version": "1.0.0",
+  "description": "Provides types to specify how arguments are checked",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JustusSchiller/quialiquam.git"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "ElisaBalistreri",
+  "license": "ISC",
+  "homepage": "https://github.com/JustusSchiller/quialiquam.git",
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  },
+  "main": "index.js"
+}
